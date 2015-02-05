@@ -1,3 +1,4 @@
+class Clndr
   module Helpers
     include ActionView::Helpers::UrlHelper
 
@@ -35,3 +36,4 @@
     end
 
   end
+end
